@@ -1,0 +1,1 @@
+# thinkful-glitch-react-rate-calc
